@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Demo program. 
 
-wgi appcation and wsgi middleware.
-=======
-Demo.combine wsgi application with wsgi middleware.
->>>>>>> parent of 49f1a4c... Revert "add readme file"
-=======
-Demo.combine wsgi application with wsgi middleware.
->>>>>>> parent of 49f1a4c... Revert "add readme file"
+wsgi application and wsgi middleware.
+
+
